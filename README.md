@@ -7,3 +7,5 @@ Olá! Bem vindo ao meu livro de receitas: :wave:
 - Strogonoff de Frango
 - Pudim
 - Pavê
+- Doce de Leite 
+- Goiabada
